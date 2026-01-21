@@ -1,5 +1,5 @@
 # Simple Quick Program Downloader - SQPD
-Simple Powershell script for installing Chrome, Steam, Discord, Blip and Spotify from the original sources.
+Simple Powershell script for automatically downloading and executing installers for Chrome, Steam, Discord, Blip and Spotify from the original sources.
 
 ## Usage
 1. Download the file to the preferred location.
